@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b9018098.css",
+<<<<<<< HEAD
+    "main.js": "/static/js/main.2a618080.js",
+    "index.html": "/index.html",
+    "main.b9018098.css.map": "/static/css/main.b9018098.css.map",
+    "main.2a618080.js.map": "/static/js/main.2a618080.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9018098.css",
+    "static/js/main.2a618080.js"
+=======
+    "main.js": "/static/js/main.2a7a4698.js",
+    "index.html": "/index.html",
+    "main.b9018098.css.map": "/static/css/main.b9018098.css.map",
+    "main.2a7a4698.js.map": "/static/js/main.2a7a4698.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9018098.css",
+    "static/js/main.2a7a4698.js"
+>>>>>>> Nishit-Pachchigar
+  ]
+}
